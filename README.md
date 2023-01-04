@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 Shivam this side, Computer Science And Engineering Undergrad.<br><br>🔭 I’m currently working on Web applications.<br><br>🌱 I’m currently learning Android Dev and Blockchain.<br><br>👯 I’m looking to collaborate on Open Source Projects.<br><br>📫 How to reach me: shivampurohit900@gmail.com.<br><br>😄 Pronouns: Co/der
+Hi there 👋 Shivam this side, Computer Science And Engineering Undergrad.<br><br>🔭 I’m currently working on Web applications.<br><br>🌱 I’m currently learning Devops and Blockchain.<br><br>👯 I’m looking to collaborate on Open Source Projects.<br><br>📫 How to reach me: shivampurohit900@gmail.com.<br><br>😄 Pronouns: Co/der
 
 
 ## 🌐 Socials:
